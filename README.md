@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Vitor de Paula 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-de-paula-gomes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_pgs/)
+
 
 - Estou Estudando para ser um Desenvolvedor Mobile Nativo
 
